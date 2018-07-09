@@ -1,1 +1,1 @@
-# alien_invasion
+使用Pycharm打开，安装好所需模块，可以直接运行
